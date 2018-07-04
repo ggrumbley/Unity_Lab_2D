@@ -1,3 +1,3 @@
-# Voxel Defense
+# Generic MUD
 
-🔫🏰 A simple tower defense game made with voxel art 🔫🏰
+⚔️💾 DOS style text adventure built with Unity 💾⚔️
