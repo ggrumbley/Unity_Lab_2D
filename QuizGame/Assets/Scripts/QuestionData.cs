@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
-public class AnswerData
+public class QuestionData
 {
-    public string answerText;
-    public bool isCorrect;
+    public string questionText;
+    public AnswerData[] answers;
 }
